@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'artcms'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FED4FE81E27B453B88215B14EC42C9AB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0AF85FA814834D03870BDA24E51A2BBD }}
